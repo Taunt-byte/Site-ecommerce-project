@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="Style" type="text/css" href="./Files.css/Styles.css">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>lucia magazine</title>
+    </head>
+    <body>
+        <header class="Menu-principal">
+        <nav>
+            <a href="#">lucia magazine</a>
+            <header class="header1">
+                <li>
+                    <a href="#sobre">Sobre</a>
+                </li>
+                <li>
+                    <a href="#departamentos">Departamentos</a>
+                </li>
+                <li>
+                    <a href="#ofertas">Ofertas</a>
+                </li>
+                <li>
+                    <a href="#contato">Contatos</a>
+                </li>
+            </header>
+        </nav>
+        </header>
+        <header id="topo">
+            <h1>Lucia Magazine</h1>
+            <p>As melhores ofertas e preços do mercado você so encontra aqui</p>
+            <a href="#Departamentos">Ver mais</a>
+        </header>
+        <section id="sobre">
+            <h2>Loja Digital para o teste de chat bot</h2>
+            <a href="#Contato">Contatos aqui</a>
+        </section>
+        <section id="#Departamentos">
+            <h2>Departamentos</h2>
+            <Div>
+                <img src="icon_hamburg.png" alt="icone">
+                <h3>Produtos</h3>
+                <p>varios produtos para o lazer</p>
+            </Div>
+        </section>
+    </body>
+</html>
