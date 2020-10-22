@@ -1,49 +1,48 @@
 <!DOCTYPE html>
-<html lang="en">
-    <head>
-        <link rel="Style" type="text/css" href="./Files.css/Styles.css">
-        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-        <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>lucia magazine</title>
-    </head>
-    <body>
-        <header class="Menu-principal">
-        <nav>
-            <a href="#">lucia magazine</a>
-            <header class="header1">
-                <li>
-                    <a href="#sobre">Sobre</a>
-                </li>
-                <li>
-                    <a href="#departamentos">Departamentos</a>
-                </li>
-                <li>
-                    <a href="#ofertas">Ofertas</a>
-                </li>
-                <li>
-                    <a href="#contato">Contatos</a>
-                </li>
-            </header>
-        </nav>
-        </header>
-        <header id="topo">
-            <h1>Lucia Magazine</h1>
-            <p>As melhores ofertas e preços do mercado você so encontra aqui</p>
-            <a href="#Departamentos">Ver mais</a>
-        </header>
-        <section id="sobre">
-            <h2>Loja Digital para o teste de chat bot</h2>
-            <a href="#Contato">Contatos aqui</a>
-        </section>
-        <section id="#Departamentos">
-            <h2>Departamentos</h2>
-            <Div>
-                <img src="icon_hamburg.png" alt="icone">
-                <h3>Produtos</h3>
-                <p>varios produtos para o lazer</p>
-            </Div>
-        </section>
-    </body>
+<html lang="pt-br">
+<meta charset="utf-8">
+
+<head>
+    <title>Lucia Magazine</title>
+    <img src="Logo.png" height="10%" width="20%">
+    <h1 style="color:white;" align="left">Lucia Magazine</h1>
+</head>
+
+<body style="background-color:black;">
+    <h1 style="color:white;" align="center">Sobre
+
+        <p style="color:white;" align="center">A maior loja digital do pais</p>
+
+        <p style="color:white;" align="center">Aqui você encontra o maior estoque do Brasil</p>
+    </h1>
+    <h2 style="color:white;" align="center">Produtos em promoção
+    </h2>
+    <div class="box">
+        <p style="color:white;" align="center">Maleta de ferramentas kit com 129 peças 13564</p>
+        <img src="Maleta de ferramentas.png" height="100%" width="100%">
+        <p style="color:white;" align="center">valor em promoçao R$85,90 de por R$79,00</p>
+    </div>
+    <div class="box">
+        <p style="color:white;" align="center">Wap Serra Circular Esc140, Amarelo E Preto, 220 V</p>
+        <img src="serra circular.png" height="100%" width="100%">
+        <p style="color:white;" align="center">valor em promoçao R$437,83 de por R$403,00</p>
+    </div>
+    <div class="box">
+        <p style="color:white;" align="center"> Aparador de Pelos Super Groom 10 Bivolt, Mondial, BG-03, Preto, Pequeno</p>
+        <img src="aparador.png" height="100%" width="100%">
+        <p style="color:white;" align="center">valor em promoçao R$119,99 de por R$98,90</p>
+    </div>
+    <div class="box">
+        <p style="color:white;" align="center"> Drone Syma X5C</p>
+        <img src="drone.png" height="100%" width="100%">
+        <p style="color:white;" align="center">valor em promoçao R$ 549,90 de por R% 535,00</p>
+    </div>
+</body>
+<style>
+    div.box {
+        width: 200px;
+        display: inline-block;
+    }
+</style>
+
 </html>
