@@ -1,8 +1,4 @@
-    div.box {
-        width: 200px;
-        display: inline-block;
-    }
-    
-    #fundo {
-        background-image: url("imagems/tela.png");
-    }
+#navbar{
+    font-family: 'Times New Roman', Times, serif;
+    size: 10cm;
+}

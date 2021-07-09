@@ -1,17 +1,15 @@
 <h1> Teo Vision </h1>
 
-> Status: under development ⚠️
+Status: em desenvolvimento ⚠️
 
-## Content that will be found on the site
-+ page to see the best discounts
-+ page to comment and talk about the product (mostly books)
+## Conteúdo que será encontrado no site
++ página para ver os melhores descontos
++ página para comentar e falar sobre o produto (principalmente livros)
 
-## Systems that will be implemented
-+ Recommendation system
-+ Login system
-+ Comment system
-    
-## Technology used in the project
+## Sistemas que serão implementados
++ Sistema de recomendação
++ Sistema de login
++ Sistema de comentários
 
 <table>
     <tr>
