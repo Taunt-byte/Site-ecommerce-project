@@ -1,16 +1,18 @@
 :root{
-
 }
 
 *{
     margin:0;
     padding:0;
+    font-family:'Times New Roman', Times, serif;
 }
 
-.navbar{
-    font-family:'Times New Roman', Times, serif;
+.titulo{
+    color: #000;
+    size: 20px;
+    font-family: fantasy;
 }
 .link{
-    font-family:'Times New Roman', Times, serif;
+    
     text-decoration: none;
 }
