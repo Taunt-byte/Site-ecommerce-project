@@ -1,12 +1,3 @@
-# Teo Vision
-
-Status: em desenvolvimento ⚠️
-
-## Conteúdo que será encontrado no site
-
-+ página para ver os melhores descontos
-+ página para comentar e falar sobre o produto (principalmente livros)
-
 <p align="center">
   <a href="https://unform.dev">
     <img src="img/Logo.png" height="150" width="175" alt="Unform" />
