@@ -7,29 +7,21 @@ Status: em desenvolvimento ⚠️
 + página para ver os melhores descontos
 + página para comentar e falar sobre o produto (principalmente livros)
 
-## Sistemas que serão implementados
-
-+ Sistema de recomendação
-+ Sistema de login
-+ Sistema de comentários
-
-
-
 <p align="center">
   <a href="https://unform.dev">
     <img src="img/Logo.png" height="150" width="175" alt="Unform" />
   </a>
 </p>
-<h1 align="center">Zé Esportes</h1> 
+<h1 align="center">Teo Vision</h1> 
 
-<p align="center">Loja de roupas e artigos esportivos do Zé</p>
+<p align="center">Websites sobre livros e recomendações de livros tanto para compra quanto para venda</p>
 
 Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
+   * [Instalação](#início)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
       * [Local files](#local-files)
@@ -46,9 +38,7 @@ Tabela de conteúdos
 
 ## Sobre
 
- É uma aplicação para dispositivos moveis feita em Dart com a biblioteca flutter.
- <br>
- Foi feito inspirado no app da loja Magazine Luiza.
+É uma aplicação que visa criar uma plataforma de compra e vendas de livros onde o usuario pode dar a sua opinião sobre o livro e seu desenvolvimento.
 
 ## Tabela de conteudo
 
@@ -58,7 +48,15 @@ Tabela de conteúdos
 - [ ] Sistemas de Avaliação
 - [ ] Sistema de recomendação
 
-## Instalação
+## início
+
+1) Antes de tudo você deve ter o Git instalado no seu SO (sistema operacional) que pode ser tanto uma distro Linux , Windows ou MacOS
+
+    a) Caso você não tenha o Git o link esta abaixo:
+
+    <code> https://git-scm.com </code>
+
+2) 
 
 ## Como usar
 
