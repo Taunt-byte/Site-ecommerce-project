@@ -1,69 +1,53 @@
-<p align="center">
-  <a href="https://unform.dev">
-    <img src="img/Logo.png" height="150" width="175" alt="Unform" />
-  </a>
-</p>
-<h1 align="center">Teo Vision</h1> 
+<h1 align="center">Teo Vision</h1>
 
-<p align="center">Websites sobre livros e recomendações de livros tanto para compra quanto para venda</p>
+<p align="center">Um website sobre livros e recomendações de livros, tanto para compra quanto para venda.</p>
 
-Tabela de conteúdos
-=================
+## Tabela de Conteúdos
+
 <!--ts-->
-   * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Sobre](#sobre)
+   * [Tabela de Conteúdos](#tabela-de-conteúdos)
    * [Instalação](#início)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
+   * [Como Usar](#como-usar)
+      * [Pré-requisitos](#pré-requisitos)
+      * [Arquivos Locais](#arquivos-locais)
+      * [Arquivos Remotos](#arquivos-remotos)
+      * [Múltiplos Arquivos](#múltiplos-arquivos)
+      * [Combinação](#combinação)
+   * [Testes](#testes)
    * [Tecnologias](#tecnologias)
 <!--te-->
 
-<h4 align="center"> 
+<h4 align="center">
 	🚧  Em desenvolvimento.  🚧
 </h4>
 
 ## Sobre
 
-É uma aplicação que visa criar uma plataforma de compra e vendas de livros onde o usuario pode dar a sua opinião sobre o livro e seu desenvolvimento.
+Teo Vision é uma aplicação que visa criar uma plataforma de compra e venda de livros, onde o usuário pode dar sua opinião sobre os livros e acompanhar o desenvolvimento das recomendações.
 
-## Tabela de conteudo
+## Funcionalidades Planejadas
 
 - [ ] Cadastro de Produtos
 - [ ] Cadastro de Clientes
-- [ ] Sistemas de Comentarios
-- [ ] Sistemas de Avaliação
-- [ ] Sistema de recomendação
+- [ ] Sistema de Comentários
+- [ ] Sistema de Avaliação
+- [ ] Sistema de Recomendação
 
-## início
+## Início
 
-1) Antes de tudo você deve ter o Git instalado no seu SO (sistema operacional) que pode ser tanto uma distro Linux , Windows ou MacOS
+1) Antes de começar, certifique-se de ter o Git instalado no seu sistema operacional (Linux, Windows, ou MacOS).
 
-    a) Caso você não tenha o Git o link esta abaixo:
+    a) Se você ainda não possui o Git, pode baixá-lo [aqui](https://git-scm.com).
 
-    <code> https://git-scm.com </code>
+2) [Instruções adicionais de instalação aqui]
 
-2) 
+## Como Usar
 
-## Como usar
+[Instruções de uso aqui]
 
 ## Tecnologias
 
-<table>
-    <tr>
-    <td>HTML</td>
-    <td>CSS</td>
-    <td>JavaScript</td>
-    <td>PHP</td>
-    </tr>
-    <tr>
-    <td>5.*</td>
-    <td>3.*</td>
-    <td>1.5</td>
-    <td>7.0.0</td>
-    </tr>
-</table>
+| HTML | CSS | JavaScript | PHP |
+|------|-----|------------|-----|
+| 5.*  | 3.* | 1.5        | 7.0.0 |

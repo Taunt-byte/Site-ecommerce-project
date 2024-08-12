@@ -1,18 +1,136 @@
-:root{
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-*{
-    margin:0;
-    padding:0;
-    font-family:'Times New Roman', Times, serif;
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
 }
 
-.titulo{
-    color: #000;
-    size: 20px;
-    font-family: fantasy;
+/* Estilo do cabeçalho */
+header.titulo {
+    background-color: #4a90e2;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom: 30px;
 }
-.link{
-    
+
+header.titulo h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+
+header.titulo p {
+    font-size: 1.2em;
+    font-style: italic;
+}
+
+/* Container principal */
+.container {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+/* Estilo da navegação (sidebar) */
+nav {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-right: 20px;
+    border-left: 5px solid #4a90e2;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+nav a {
+    font-size: 1.2em;
+    color: #4a90e2;
+    margin-bottom: 15px;
     text-decoration: none;
+    padding: 10px;
+    background-color: white;
+    border-radius: 3px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+nav a:hover {
+    background-color: #4a90e2;
+    color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilo do aside */
+aside {
+    flex: 1;
+    padding: 20px;
+    background-color: white;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+aside h1{
+    color: #4a90e2;
+    margin-bottom: 15px;
+}
+
+/* Estilo dos artigos */
+main {
+    flex: 2;
+    padding: 20px;
+}
+
+main article {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+main article h1 {
+    color: #4a90e2;
+    margin-bottom: 15px;
+}
+
+main article p {
+    font-size: 1.1em;
+    line-height: 1.8;
+}
+
+/* Estilo do rodapé */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+
+footer p {
+    margin-bottom: 10px;
+}
+
+footer a {
+    color: #4a90e2;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
 }
